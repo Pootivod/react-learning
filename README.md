@@ -1,2 +1,1 @@
-# react-learning
-react-learning
+New projectc is launced!
